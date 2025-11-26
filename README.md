@@ -1,12 +1,24 @@
-# 🧬 Mutant Detector API - Guía Completa para Estudiantes
+# 🧬 Mutant Detector API - Integrador Desarrollo de Software 2025
 
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Gradle](https://img.shields.io/badge/Gradle-8.x-blue.svg)](https://gradle.org/)
-[![Tests](https://img.shields.io/badge/Tests-35%20passing-success.svg)]()
-[![Coverage](https://img.shields.io/badge/Coverage-90%25-brightgreen.svg)]()
+[![Tests](https://img.shields.io/badge/Tests-36%20passing-success.svg)]()
+[![Coverage](https://img.shields.io/badge/Coverage-85%25-brightgreen.svg)]()
 
-> 📚 **Proyecto Educativo**: API REST para detectar mutantes analizando secuencias de ADN. Desarrollado como examen técnico de MercadoLibre Backend Developer.
+---
+
+## 📚 Información del Proyecto
+
+**Universidad:** Universidad Tecnológica Nacional - Facultad Regional Mendoza (UTN FRM)  
+**Materia:** Desarrollo de Software 2025  
+**Profesor:** Cortez, Alberto  
+**Alumno:** Ignacio Berridy  
+**Legajo:** 50714
+
+---
+
+> 📚 **Proyecto Integrador**: API REST para detectar mutantes analizando secuencias de ADN. Basado en el examen técnico de MercadoLibre Backend Developer.
 
 ---
 
@@ -2504,41 +2516,6 @@ Configura PostgreSQL en Docker y migra desde H2.
 
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [Postman](https://www.postman.com/)
-- [DBeaver](https://dbeaver.io/) (Cliente SQL)
 
 ---
 
-## 🤝 Contribución
-
-¿Encontraste un bug? ¿Tienes una mejora? ¡Pull requests son bienvenidos!
-
-1. Fork el proyecto
-2. Crea tu rama: `git checkout -b feature/AmazingFeature`
-3. Commit: `git commit -m 'Add some AmazingFeature'`
-4. Push: `git push origin feature/AmazingFeature`
-5. Abre un Pull Request
-
----
-
-## 📄 Licencia
-
-Este proyecto es de código abierto bajo la licencia MIT.
-
----
-
-## 🙏 Créditos
-
-- **MercadoLibre** - Por el desafío técnico
-- **Spring Team** - Por el increíble framework
-- **Project Lombok** - Por reducir boilerplate
-- **Comunidad Open Source** - Por todas las librerías
-
----
-
-<div align="center">
-
-## ⭐ Si este proyecto te ayudó a aprender, considera darle una estrella ⭐
-
-**Hecho con ❤️ para estudiantes de programación**
-
-</div>
